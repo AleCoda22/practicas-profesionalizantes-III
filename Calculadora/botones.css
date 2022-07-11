@@ -1,0 +1,77 @@
+.calculate{
+	display:block;
+	margin: 0 auto;
+	padding:20px;
+	background-color:#5DC1B9;
+	width: 360px;
+	height: 700px;
+	border-radius: 15px;
+	
+
+
+}
+.calculate td button{
+	display: block;
+	width: 70px;
+	height: 70px;
+	font-size: 40px;
+}
+
+
+.bluebuttons{
+background-color: blue;
+
+border-radius: 15px;
+color:white;
+font-family:arial;
+font-weight:bold;
+font-size:40px;
+}
+
+.greenbuttons{
+background-color: green;
+
+color:white;
+border-radius: 15px;
+
+font-family:arial;
+font-weight:bold;
+font-size:40px;
+}
+.yellowbuttons{
+background-color: yellow;
+
+
+border-radius: 15px;	
+color:white;
+font-family:arial;
+font-weight:bold;
+font-size:40px;
+}
+.redbuttons{
+	display: block;
+	text-align: center;
+	font-size: 40px;
+	margin-bottom: 50px;
+	width: 200px;
+	height: 80px;
+	line-height: 100px;
+	border-radius: 15px;
+	background-color: red;
+	
+	font-size: 60px;
+f
+	
+}
+
+#resultado{
+	display: block;
+	text-align: center;
+	font-size: 40px;
+	margin-bottom: 50px;
+	width: 300px;
+	height: 100px;
+	line-height: 100px;
+	border-radius: 15px;
+	background-color: white;
+}
